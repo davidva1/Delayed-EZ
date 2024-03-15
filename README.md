@@ -1,6 +1,7 @@
-# Stochastic-Delays EfficientZero (SD-EZ)
-Open-source codebase for the SD-EZ, from TREE SEARCH-BASED POLICY OPTIMIZATION UNDER
+# Delayed-EfficientZero (ICLR 2024)
+Open-source codebase for the Delayed-EZ, from TREE SEARCH-BASED POLICY OPTIMIZATION UNDER
 STOCHASTIC EXECUTION DELAY.
+*David Valensi, Esther Derman, Shie Mannor, Gal Dalal*
 
 ## Environments
 SD-EZ builds upon EfficientZero and requires python3 (>=3.6) and pytorch (>=1.8.0) with the development headers. 
